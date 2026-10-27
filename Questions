@@ -1,0 +1,76 @@
+Q1.) count vowels and consonants.
+Q2.) count vowels,consonants,digits and special symbols.
+Q3.) Reverse the string in place.
+Q4.) Frequency of charecters in a string.
+Q5.) Check whether a String is a Palindrome.
+Q6.) Count the Number of Words in a Sentence.
+Q7.) Convert a String to Uppercase and Lowercase without using built-in methods.
+Q8.) Check if Two Strings are Equal.
+Q9.) Find the First Occurrence and Last Occurrence of a Character.
+Q10.) Replace all the occurences of Character with Another Character.
+Q11.) Check whether Two Strings are Anagrams.
+Q12.) Remove Duplicate Characters from a String.
+Q13.) Find the Most Frequent Character.
+Q14.) Find the First Non-Repeating Character.
+Q15.) Find the First Repeating Character.
+Q16.) Reverse Each Word in a Sentence.
+Q17.) Find All Duplicate Characters in a String.
+Q18.Check if One String is a Rotation of Another.
+completed
+Q19.Compress a String (aaabbcc → a3b2c2)
+Q20.Expand a Compressed String (a3b2c2 → aaabbcc)
+
+Medium Level String Questions
+
+Compress a String (aaabbcc → a3b2c2)
+Expand a Compressed String (a3b2c2 → aaabbcc)
+Find the Longest Word in a Sentence
+Count Occurrences of Each Character
+Check whether a String contains Only Digits
+Find the Longest Common Prefix among Strings
+Check whether a String is a Subsequence of Another String
+Remove Consecutive Duplicate Characters
+Find the Second Most Frequent Character
+Determine whether Two Strings are Isomorphic
+Sort Characters of a String Alphabetically
+
+
+
+Hard Level String Questions
+
+Longest Substring Without Repeating Characters
+Longest Palindromic Substring
+Minimum Window Substring
+String Pattern Matching (KMP Algorithm)
+Rabin-Karp String Matching
+Z Algorithm Pattern Matching
+Find All Anagrams of a Pattern in a String
+Edit Distance Between Two Strings
+Wildcard Pattern Matching
+Regular Expression Matching
+Longest Common Subsequence (LCS)
+Longest Common Substring
+Shortest Common Supersequence
+Count Distinct Subsequences
+Longest Repeating Subsequence
+Palindrome Partitioning
+Word Break Problem
+Group Anagrams
+Minimum Insertions to Make a String Palindrome
+Smallest Window Containing All Characters of Another String
+Count Palindromic Subsequences
+Count Palindromic Substrings
+String Interleaving Problem
+Longest Prefix which is also Suffix
+Implement Trie and Perform Word Search
+
+
+
+
+Q1.Write a Python program to Check whether a String contains Only Digits.
+Q2.Write a Python program to Find the Longest Common Prefix among Strings.
+Q3.Write a Python program to Check whether a String is a Subsequence of Another String.
+Q4.Write a Python program to Remove Consecutive Duplicate Characters.
+Q5.Write a Python program to Find the Second Most Frequent Character.
+Q6.Write a Python program to Determine whether Two Strings are Isomorphic.
+Q7.Write a Python program to Sort Characters of a String Alphabetically.
